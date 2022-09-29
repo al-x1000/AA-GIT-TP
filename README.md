@@ -23,6 +23,7 @@
 
 ## Quel Workflow a-t-on choisit ?
 Nous avons choisit le workflow **Feature Branch + Merge Request**.
+<img src="https://i1.wp.com/blog.arcoptimizer.com/wp-content/uploads/2019/07/1562689574_829_comment-utiliser-git-branches-buddy-pour-organiser-le-code-de-projet.png?resize=801%2C400&ssl=1" align="left" height="200" width="350" />
 L'équipe ayant un niveau similaire et l'envergure du projet étant de taille moyenne, le workflow Feature Branch était le plus adapté. 
 
 Dans un soucis de vérification sur nos scripts, nous avons préféré opter pour le Merge Request en supplément. Cela permet à chacun de vérifier le travail d'autrui et de valider avant de l'envoyer sur la branche principale. 
