@@ -13,7 +13,7 @@
 <br/>  
 
 ## Projects
-##### 🐍 First Script [Primary Number](https://github.com/Alxis99/AA-GIT-TP/blob/master/primary_number.py)
+#### 🐍 First Script [Primary Number](https://github.com/Alxis99/AA-GIT-TP/blob/master/primary_number.py)
 - Prerequisite - Python3 up to date, Keyboard and Mouse.
 
 To run the script, you can : 
@@ -23,7 +23,7 @@ To run the script, you can :
 
 <em>Tips : Your hands can help to run the script.</em>
 
-##### 👯‍♂️ Second Script [Clone Repo](https://github.com/Alxis99/AA-GIT-TP/blob/master/Clone_repo.py)
+#### 👯‍♂️ Second Script [Clone Repo](https://github.com/Alxis99/AA-GIT-TP/blob/master/Clone_repo.py)
 - Prerequisite - Python3 up to date, Keyboard and Mouse.
 
 To run the script, you can : 
@@ -32,7 +32,7 @@ To run the script, you can :
 
 **Many thanks to StackOverflow, we love you ❤️**
 
-##### 📶 Third Script [Get Password](https://github.com/Alxis99/AA-GIT-TP)  
+#### 📶 Third Script [Get Password](https://github.com/Alxis99/AA-GIT-TP)  
 - Prerequisite - PowerShell, your hands, your mouse and your keyboard.
 
 To run the script, you can : 
