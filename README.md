@@ -10,7 +10,8 @@
 
 
 ## Rappel des pré-requis
-<tr><td>Par groupe de 2 à 3, créer 3 scripts (langage au choix)</td></tr>
+<table>
+<td>Par groupe de 2 à 3, créer 3 scripts (langage au choix)</td>
 <tr><td>Le premier script doit afficher la liste des nombres premiers entre 1 et 100 000</td></tr>
 <tr><td>Le deuxième script doit permettre de cloner le repository suivant : https://github.com/KeligMartin/4-SRC.git</td></tr>
 <tr><td>Le troisième est libre à votre imagination (pas de Hello World)</td></tr>
@@ -18,6 +19,7 @@
 <tr><td>Modifier le premier script pour afficher les nombres premiers entre 1 et 1 000 000 (une personne différente qui a fait le 1Er script)</td></tr>
 <tr><td>Les commits sont propres ainsi que l'historique git</td></tr>
 <tr><td>Je dois pouvoir lancer les scripts sans problèmes (grâce à un joli README)</td></tr>
+</table>
 
 ## Quel Workflow a-t-on choisit ?
 Nous avons choisit le workflow **Feature Branch + Merge Request**.
