@@ -1,7 +1,7 @@
 ###############################################################
 #                                                             #
 #               Script to print Primary Number.               #
-#                       1 to 100 000                          #
+#                       1 to 1 000 000                        #
 #                                                             #
 #              HUELLOU Alexis, TAILLANDER Aliaume             #
 #                                                             #
@@ -25,8 +25,8 @@ def isPrime(n):
   return True
   
 
-N = 100000;
-#Check for every number from 1 to 100000
+N = 1000000;
+#Check for every number from 1 to 1000000
 for i in range(1,N+1):
   #Check if current number is primary
   if(isPrime(i)):
