@@ -47,7 +47,7 @@ To run the script, you can :
 <em>Tips : Your hands can help to run the script.</em>
 
 #### 👯‍♂️ Second Script [Clone Repo](https://github.com/Alxis99/AA-GIT-TP/blob/master/Python/Clone_repo.py)
-- Prerequisite - Python3 up to date, Keyboard and Mouse.
+- Prerequisite - Python3 up to date, [GitPython module](https://gitpython.readthedocs.io/en/stable/intro.html), Keyboard and Mouse.   
 
 To run the script, you can : 
 - Download the file and run it.
